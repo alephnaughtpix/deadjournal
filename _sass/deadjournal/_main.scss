@@ -70,3 +70,13 @@ body {
 	@include transition(all $transition_speed_fast);
 }
 
+.post {
+	.post-content {
+		img, iframe {
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+}
+
+
