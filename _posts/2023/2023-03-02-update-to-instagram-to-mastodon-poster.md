@@ -8,7 +8,7 @@ tags:
 - postman
 - geek
 ---
-Irony of ironies, now that I have pointed out my [Instagram to Mastodon Crossposter]({{ "/2019/12/16/how-to-post-instagram-posts-on-mastodon-using-ifttt.html" | relative_url }}) in my [previous article]({{ "/2022/11/2022-11-11-on-migrating-from-twitter-to-mastadon.md"| relative_url }}), someone has messaged me to say it's stopped working! As expected, it was due to changes in the Mastodon API in the three years since I last touched it, so here is an updated version of how to auto-post your latest Instagram images on Mastodon using If This Then That (IFTTT) <!--more-->
+Irony of ironies, now that I have pointed out my [Instagram to Mastodon Crossposter]({{ "/2019/12/16/how-to-post-instagram-posts-on-mastodon-using-ifttt.html" | relative_url }}) in my [previous article]({{ "/2022/11/11/on-migrating-from-twitter-to-mastadon.html"| relative_url }}), someone has messaged me to say it's stopped working! As expected, it was due to changes in the Mastodon API in the three years since I last touched it, so here is an updated version of how to auto-post your latest Instagram images on Mastodon using If This Then That (IFTTT) <!--more-->
 
 ## Requirements
 
