@@ -9,7 +9,7 @@ categories:
 
 It's official. My old Livejournal, the impetus behind this blog, is no more. <!--more-->
 
-As part of this project, I had imported posts from my old LiveJournal into this blog, then I'd deleted the LiveJournal. (The reason *why* I deleted it is [explained here.]({{"/2019/05/22/About-Deadjournal.html"|relative_url}}). However, it wasn't just gone. When a blog is marked for deletion in LiveJournal, it may disappear from public view, but the old data remains for **up to a year**, in case I might want to resurrect it, until it finally gets deleted. 
+As part of this project, I had imported posts from my old LiveJournal into this blog, then I'd deleted the LiveJournal. (The reason *why* I deleted it is [explained here.]({{"/2019/05/22/About-Deadjournal.html"|relative_url}}).) However, it wasn't just gone. When a blog is marked for deletion in LiveJournal, it may disappear from public view, but the old data remains for **up to a year**, in case I might want to resurrect it, until it finally gets deleted. 
 
 That happened today.  And here is the evidence.
 

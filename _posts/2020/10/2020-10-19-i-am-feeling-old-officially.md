@@ -2,8 +2,10 @@
 title: I am feeling old, officially
 layout: post
 excerpt_separator: "<!--more-->"
-tags: music
-categories: Music
+tags:
+- music
+categories:
+- Music
 ---
 
 When I popped into a cafe earlier today, there was a radio sofly playing an "Oldies" station.<!--more-->

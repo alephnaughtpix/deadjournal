@@ -24,6 +24,9 @@ twitter_username: alephnaught
 github_username:  alephnaughtpix
 flickr_username: alephnaught
 instagram_username: alephnaughtpix
+mastodon:
+  - username: mpjames
+    instance: glasgow.social
 show_excerpts: True
 sass:
   style: compressed
