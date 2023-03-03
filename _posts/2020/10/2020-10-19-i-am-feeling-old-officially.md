@@ -14,4 +14,4 @@ And the "oldie" that was playing? Only "Bohemian Like You" by the Dandy Worhols!
 
 *Note this is the original version of the video, so it contains some brief nudity.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z-GRlWPWRfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CU3mc0yvRNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

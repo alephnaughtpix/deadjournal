@@ -9,7 +9,7 @@ categories:
 
 At the place I work, rather than office computers, we all have laptops. This is partly because there is a policy of "hot-desking", but also it can allow for us to work with clients at their offices. Since our business affairs are more or less wholly online, it means we can more flexible in where we work from. It can also allow for working from home. <!--more-->
 
-This is a different setup to previous places I have worked, where one worked on technology based from the office, and any options for working form home were severely restricted, if they existed at all. Yes, you might be working with technology based halfway across the world, but your starting point would always be a computer fixed to the office.
+This is a different setup to previous places I have worked, where one worked on technology based from the office, and any options for working from home were severely restricted, if they existed at all. Yes, you might be working with technology based halfway across the world, but your starting point would always be a computer fixed to the office.
 
 The evolution away from this partly stems from the increasing move from standalone servers to cloud computing. Whereas in the past standalone servers would usually be based in closed networks that would only allow access from certain points, such as the office, with cloud computing the servers could be based anywhere, and with the sort of security infrastructure needed, can be accessed anywhere. 
 
@@ -27,6 +27,6 @@ We've been told this week to taake our laptops home with us every night, just in
 
 Outside of the meeting, there was a feeling that this was not so much a matter of *if* but *when*. There have been discussion amongst us about what this would mean: although most of us had worked from home before, it was in short stretches- only 3 days a month was allowed for working from home- not possibly months on end. 
 
-One interesting observation was that it might, if not an outright rejection, then at least a softening of the 9-5 hours. If you can do the job in time, does it really matter exactly what hours you work?
+One interesting observation was that it might lead to, if not an outright rejection, then at least a softening of the 9-5 hours. If you can do the job in time, does it really matter exactly what hours you work?
 
-It does remind me of a previous workplace I worked where there was a degree of flexitime. As long as you worked within the "core hours" (Late morning to early afternoon), and you worked the agreed hours per week, then that was fine. Obviously working from home is going to be a challenge if you've not really done it before, especially if you have a family! But it does make me wonder- depending on how we would have to do this- if it could harbinger a great change to society and how it works.
+It does remind me of a previous workplace I worked where there was a degree of flexitime. As long as you worked within the "core hours" (Late morning to early afternoon), and you worked the agreed number of hours per week, then that was fine. Obviously working from home is going to be a challenge if you've not really done it before, especially if you have a family! But it does make me wonder- depending on how we would have to do this- if it could harbinger a great change to society and how it works.

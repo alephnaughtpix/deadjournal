@@ -1,6 +1,6 @@
 ---
 title: Livejournal is Deadjournal
-layout: page
+layout: post
 excerpt_separator: "<!--more-->"
 tags: livejournal
 categories:

@@ -11,7 +11,7 @@ It was long time coming. Our apparent Prime Minister, Boris Johnson, had to anno
 
 The Pubs have to shut down. Tonight. Officially. The Police are going to check this and everything.
 
-I knew this was going to happening for some time. As usual, the Scottish Government were warning about this for the past couple of weeks, way before Westminster did. And, as usual, the Gammons on social media were shreiking that First Minister Sturgeon was doing this way ahead of Hay Hair Boris PM, blah blah, getting uppity. Who would I rather trust? Hmmm...
+I knew this was going to happening for some time. As usual, the Scottish Government were warning about this for the past couple of weeks, way before Westminster did. And, as usual, the Gammons on social media were shrieking that First Minister Sturgeon was doing this way ahead of Hay Hair Boris PM, blah blah, getting uppity. Who would I rather trust? Hmmm...
 
 I trusted the First Minister, and my local pub.
 
@@ -29,7 +29,7 @@ The irony of course, is that a lot of Celtic supporters went into Redmonds befor
 
 By this last Friday, the usual chalkboard outside the front door, which previously announced games, quizzes, brunch on a Sunday- now announced the new social distancing rules: stay 2m from each other, table service only, payment only via contactless. 
 
-It was just after 6PM. Word has spread around. All of us regulars know the news now. We're all here together to say goodbye- 2m apart of course. The cheif barstaff Iggy is noticing all the police cars running up and around Duke Street, and is getting ready to shut at 8pm. Sensing the dying moment, I request a last single malt. The shutters are going down around the windows. I say goobye to Iggy, take my last guest albums in a poly bag.
+It was just after 6PM. Word has spread around. All of us regulars know the news now. We're all here together to say goodbye- 2m apart of course. The chief barstaff Iggy is noticing all the police cars running up and around Duke Street, and is getting ready to shut at 8pm. Sensing the dying moment, I request a last single malt. The shutters are going down around the windows. I say goobye to Iggy, take my last guest albums in a poly bag.
 
 Will I be back there? Will *they* back there? I hope so.
 

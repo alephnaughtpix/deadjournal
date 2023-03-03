@@ -9,4 +9,4 @@ categories:
 
 ![]({{"/assets/img/happy_easter.jpg"|relative_url}})
 
-Looks like any symptoms I've had are gone now, so- touch wood- i'll be out of isolation on Tuesday. My husband unfortunately still has to isolate for the next week or so, as per the rules.
+Looks like any symptoms I've had are gone now, so- touch wood- I'll be out of isolation on Tuesday. My husband unfortunately still has to isolate for the next week or so, as per the rules.

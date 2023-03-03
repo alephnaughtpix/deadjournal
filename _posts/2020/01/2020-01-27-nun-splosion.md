@@ -17,9 +17,9 @@ In the Order, when a group is has grown enough, and is judged ready to become an
 
 The actual Exequator occasion was to happen on Saturday 25th, but there was to be a meet and greet on the day before. Myself, Novice Sauchie Ball Street and Hench Rietta went down on the plane. We had already worked out that the cheapest route was by air! This was even given the fact that there were now no direct flights to Cardiff as there had been when I last went down the previous August. (These flights were run by FlyBe, so perhaps it was just as well, given that they basically went into adminstration the week we were planning on going.) We planned to fly to Bristol, and get a hired car to go to Cardiff, which was just over the River Severn. As they were going back on a different day, I could make my way by bus or train to Bristol. (Sir Carrie A. Lotte was also coming down by plane, but at a later time.)
 
-Of course, it wasn't that simple. The flight from Glasgow was delayed by over an hour, and when we got down to the hire car dealer, things looked right dodgy: there was a queue of people complaining about the terms and unlisted costs. After overhearing things and making ourown calculations, we worked out that it would be quicker to get an Uber into Cardiff, so we did. 
+Of course, it wasn't that simple. The flight from Glasgow was delayed by over an hour, and when we got down to the hire car dealer, things looked right dodgy: there was a queue of people complaining about the terms and unlisted costs. After overhearing things and making our own calculations, we worked out that it would be quicker to get an Uber into Cardiff, so we did. 
 
-We finally ended up in central Cardiff just as the Meet 'n' Greet was aboout to begin. Luckily Novice Sauchie and Hench Rietta's hotel was just around the corner from the location. (Just as well, as I was still lugging about my wheely case.) The location was [The Golden Cross](https://en.wikipedia.org/wiki/Golden_Cross%2C_Cardiff), a lovely old-school pub with small stage, which would be full of various acts each night.
+We finally ended up in central Cardiff just as the Meet 'n' Greet was about to begin. Luckily, Novice Sauchie and Hench Rietta's hotel was just around the corner from the location. (Just as well, as I was still lugging about my wheely case.) The location was [The Golden Cross](https://en.wikipedia.org/wiki/Golden_Cross%2C_Cardiff), a lovely old-school pub with small stage, which would be full of various acts each night.
 
 The first familiar people I bumped into when I went in were actually from the Order in Edinburgh! We had been allowed use of the VIP back room, which was lined with various bric-a-brac, including ships-in-bottles, and various strange books. Eventually more drifted in, most in their "secular" clothes. Here's someone who shares the same name as me, spells the first name different ways: mine is "Michael", his is "Micheal".
 
@@ -33,7 +33,7 @@ I decided to have a bit of a wander around Cardiff city centre, during which I p
 
 ![]({{"/assets/img/cardiff_exequator/sister_krisko.jpg"|relative_url}})
 
-We went, as is Brother Huw's wont, down to the Exequator venue, in the bus. (I've done this before with Huw and co when I was down at Cardiff Pride last year.) There's a bus into the centre just outside Huw's house, and not much walking after that. We don't usually get any bother going down in the bus, and walking down the Cardiff centre streets. If we get any reaction, it's more along the lines of *"Oh my goodness, you look **amazing**!"*. 
+We went, as is Brother Huw's wont, down to the Exequator venue in the bus. (I've done this before with Huw and co when I was down at Cardiff Pride last year.) There's a bus into the centre just outside Huw's house, and not much walking after that. We don't usually get any bother going down in the bus, and walking down the Cardiff centre streets. If we get any reaction, it's more along the lines of *"Oh my goodness, you look **amazing**!"*. 
 
 ![]({{"/assets/img/cardiff_exequator/marys.jpg"|relative_url}})
 
@@ -55,7 +55,7 @@ Then (then) Novice Gloria Snockers from Cardiff and Sister Ann from Bristol (the
 
 **Sunday 26th**
 
-Sunday afternoon was the comedown. We were all to meet up in the afternoon in the [WOW Bar](https://www.google.com/maps/place/WOW+Bar/@51.4835989,-3.1756667,17z/data=!3m1!4b1!4m5!3m4!1s0x486e1cb7650972f3:0x80294cde9dbe2113!8m2!3d51.4835989!4d-3.1734727), although there was talk in social media of various Brunch happenings around the city centre. Huw and myself Manifested, but when we went there, it turns out it we were the only ones Manifested. I suspect Brother Huw is like me: any excuse to don the Habit. Yesterday, I was wearing my formal Habit, but today I was wearing my pink Habit, which is a little more figure-hugging. (Which I understand was much commented upon.)
+Sunday afternoon was the comedown. We were all to meet up in the afternoon in the [WOW Bar](https://www.google.com/maps/place/WOW+Bar/@51.4835989,-3.1756667,17z/data=!3m1!4b1!4m5!3m4!1s0x486e1cb7650972f3:0x80294cde9dbe2113!8m2!3d51.4835989!4d-3.1734727), although there was talk in social media of various Brunch happenings around the city centre. Huw and myself Manifested, but when we went there, it turns out it we were the only ones to do so. I suspect Brother Huw is like me: any excuse to don the Habit. Yesterday, I was wearing my formal Habit, but today I was wearing my pink Habit, which is a little more figure-hugging. (Which I understand was much commented upon.)
 
 ![]({{"/assets/img/cardiff_exequator/sunday_afternoon.jpg"|relative_url}})
 

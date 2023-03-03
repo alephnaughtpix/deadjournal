@@ -16,4 +16,4 @@ This evening, things have calmed down a bit, so I was able to type this one. (Ye
 
 Am I worried? You bet. It looks like whatever this is may be calming down, but I'll want to wait over the days of isolation, because I want to be sure, and I also want to be sure that **if** this is the dreaded virus, I don't pass it onto my husband.
 
-So I'm staying in the bedroom for the next 7 days. Today I was only venturing out to get a glass of water or go to the loo. My husband has it even worse. He has to stay isolated for 7 days after that. We've alerted friends and family, and a couple of friends are helping by delivering groceries to outside the front door, but this is going to a tense next fortnight.
+So I'm staying in the bedroom for the next 7 days. Today I was only venturing out to get a glass of water or go to the loo. My husband has it even worse, even thought he does not have any symptoms. He has to stay isolated for 7 days after I emerge. We've alerted friends and family, and a couple of friends are helping by delivering groceries to outside the front door, but this is going to a tense next fortnight.

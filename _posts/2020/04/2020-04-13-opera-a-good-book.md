@@ -10,13 +10,13 @@ The other day, I noticed Twitter user [@letsgoayo](https://twitter.com/letsgoayo
 
 > Why is that bad? I generally don't think people who don't go to the opera and the ballet and read good books and are the sort of people who should have power. They certainly aren't the sort of people I like.
 
-!["Why is that bad? I generally don't think people who don't go to the opera and the ballet and read good books and are the sort of people who should have power. They certainly aren't the sort of people I like."]({{"/assets/img/goodbook/goodbook1.jpg"|relative_url}})
+!["Why is that bad? I generally don't think people who don't go to the opera and the ballet and read good books and are the sort of people who should have power. They certainly aren't the sort of people I like."]({{"/assets/img/goodbook/Goodbook1.jpg"|relative_url}})
 
 I noticed the absolute dog-whistle of a phrase:*"the sort of people I like"*, and had to repond.
 
 > "the sort of people I like" is a big tell here. It isn't really about one's personal preferences, it's about whether you're one of **them**
 
-![]({{"/assets/img/goodbook/goodbook2.jpg"|relative_url}})
+![]({{"/assets/img/goodbook/Goodbook2.jpg"|relative_url}})
 
 Obviously, I don't think going to the opera or reading good books should  be a requirement for holding power. **However**, if we're going to go in that direction, I'd recommend the following to the original poster.
 

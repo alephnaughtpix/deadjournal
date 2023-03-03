@@ -1,5 +1,5 @@
 ---
-title: Instagram to Mastadon Crossposter update!
+title: Instagram to Mastodon Crossposter update!
 categories:
 - Geek
 tags:
@@ -51,9 +51,10 @@ This is very important, as you will need this key to post to Mastodon. Note that
 * On the "Choose a trigger" page, select "Any new photo by you".
 * On the next page you connect to your Instagram account. This will require logging in to your
   Instagram account, and giving permission to IFTTT to see your posts.
-* Finall select "Create trigger" to complete the process.
+* Finally, select "Create trigger" to complete the process.
 
 **If you have added Instagram:**
+
 If you are updating your old crossposter, you will already have Instagram added. However, the access key may have expired. So it's worth going to the "edit" link on the "If This..." panel, and checking. You may need to select "reconnect account" to re-authorise IFTTT to access your Instagram account. This will require logging in to your Instagram account, and giving permission to IFTTT to see your posts.
 
 ### Mastodon integration

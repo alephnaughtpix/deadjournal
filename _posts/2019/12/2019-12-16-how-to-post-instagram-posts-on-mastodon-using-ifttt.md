@@ -6,7 +6,7 @@ tags: code geek mastadon ifttt instagram
 categories: Geek
 ---
 
-**NOTE: This post is out of date, for the latest way to do it, go to [this post]({{ "/2023/03/02/update-to-instagram-to-mastodon-poster.html" | relative_url }}).**
+**NOTE: This post is out of date! For the latest way to do it, go to [this post]({{ "/2023/03/02/update-to-instagram-to-mastodon-poster.html" | relative_url }}).**
 
 *This post was originally published on my old [Tumblr](https://alephnaughtpix.tumblr.com/post/177232593842/how-to-post-instagram-posts-on-mastodon-using), but it seemed more appropriate for this place, so...*
 

@@ -24,7 +24,7 @@ There's a version with all three parts together, but I think it works better as 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKUAZxqUorI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I say "then record-breaking", as mere hours after the thrid and final video in the series was released, London's New Year celebrations featured an LED drone show with 300 drones. It was interesting that although coming from a different angle, it was largely covering the same subjects "Fare Well" was, and even featured a similar bird pictogram to the one seen in "Fare Well"
+I say "then record-breaking", as mere hours after the thrid and final video in the series was released, London's New Year celebrations featured an LED drone show with 300 drones. It was interesting that although coming from a different angle, it was largely covering the same subjects "Fare Well" had, and even featured a similar bird pictogram to the one seen in "Fare Well"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpJIg_3DnLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

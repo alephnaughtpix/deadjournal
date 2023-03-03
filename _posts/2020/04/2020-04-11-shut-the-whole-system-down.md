@@ -15,4 +15,4 @@ Though I'm a bit worried that despite doing the the distancing thing whilst play
 
 Still it is good to see the [Goats of Llandudno](https://www.theguardian.com/uk-news/gallery/2020/mar/31/mountain-goats-of-great-orme-hit-llandudno-in-pictures) making an appearance in the video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p1WSp3tbYpk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xcDvM3PdVsc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

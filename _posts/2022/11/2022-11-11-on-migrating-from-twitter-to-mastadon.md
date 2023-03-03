@@ -1,5 +1,5 @@
 ---
-title: On Migrating From Twitter To Mastadon
+title: On Migrating From Twitter To Mastodon
 categories:
 - Geek
 tags:
@@ -21,7 +21,7 @@ The intial steps in setting up a Mastodon account require a web browser. I'll al
 
 The first thing you have to do is choose a Mastadon server (often called an "instance") on which to register an account.
 
-This is the bit that I notice flummoxes people the most, and it's especially frustrating as it's flummoxing them right on the first step! If you've read any articles about Mastadon recently, then they will generally do an infodump about Mastodon being a "fediverse", a distributed network across different servers. Whilst this is an important technical aspect of the system, such technical details tend to make non-technical people's eye glaze over.
+This is the bit that I notice flummoxes people the most, and it's especially frustrating as it's flummoxing them right on the first step! If you've read any articles about Mastadon recently, then they will generally do an infodump about Mastodon existing in a "fediverse", a distributed network across different servers. Whilst this is an important technical aspect of the system, such technical details tend to make non-technical people's eye glaze over.
 
 So I would instead liken Mastodon to email. You can create an email account on Gmail or Hotmail, but using that account, you can send emails anywhere outside Gmail or Hotmail as long as you know the email address to send them to. So whether you choose Gmail or Hotmail really depends on which user experience you prefer.
 
@@ -105,6 +105,7 @@ One thing you may notice straight away about exploring Mastodon is (At least for
 3. It's generally expected that if your post contains an image, you provide an ALT-text, espcially if the image is a paragraph of text!
 4. I've seen a lot of use of the Content Warning feature. When you create a post, you can add a content warning. (Click on the "CW" button below the post field.) When you post the post, the main content will be hidden, and the content warning will be shown, along with a button "Show more", which will reveal the main content. I've seen it used for contentious or distressing thems, but I've also seen it used creatively on long posts (Some instances can handle posts of more than 500 characters.) and long threads.
 5. You can't do a text search for tweets, but you *can* search for hashtags. This means that using hashtags are more important in Mastodon than they are in Twitter.
+6. The vast majority of Mastodon instances are non-profit and are run by people in their spare time, and at their own cost. A lot of them have fund-raisers for costs, or have a payment system to allow people to donate money to costs. If you're getting good useage of out of Mastodon, it is worth considering donating money towards your instance's upkeep. (I leave the irony of paying for Mastodon, whilst running a mile away from doing the same for Twitter, for you to ponder.)
 
 ## Crossposting between Twitter and Mastodon
 
@@ -119,6 +120,27 @@ I would add a note of caution that the Twitter API for free users is generally l
 For a while, the only way to ineract with Mastodon on a mobile device was through a web browser, (Which was, and still is, a viable option.) and Mastodon's official app didn't arrive until recently, which means that the app ecosystem was largely populated by third party apps which, while they delivered the core functionality, often differed in how they handled some features.
 
 I would probably advise to go for the official Mastodon app for [iOS](https://apps.apple.com/us/app/mastodon-for-iphone-and-ipad/id1571998974) and [Android](https://play.google.com/store/apps/details?id=org.joinmastodon.android&gl=US&pli=1) first, but then try out the other apps after that. Here's a good article on [the iOS apps](https://transponderings.blog/2022/05/21/eight-mastodon-apps-for-iphone/), and one for [Android apps](https://9to5google.com/2022/11/03/best-mastodon-apps-download-android/).
+
+## Beyond Mastodon
+
+Although Mastodon exists in a "fediverse", the fediverse is not just Mastodon. There are a number of other de-centralised social media platforms that are part of the fediverse. For example:
+
+* [Pixelfed](https://pixelfed.org/), an Instagram-like photo sharing platform.
+* [Peertube](https://joinpeertube.org/), an YouTube-ish video sharing platform.
+* [Funkwhale](https://funkwhale.audio/), a decentralised equivalent to Bandcamp.
+* [Matrix](https://matrix.org/), a chat platform, similar to Slack.
+* [Frendica](https://friendi.ca/), a Facebook-ish social media platform.
+* [WriteFreely](https://writefreely.org/), a blogging platform.
+* [Pleroma](https://pleroma.social/), a Mastodon-like social media platform. (!)
+* And many more...
+
+What's interesting is that, as they share the same communication protocal, ([ActivityPub](https://www.w3.org/TR/activitypub/)), there is a degree of compatibility between all these platforms. A user in Mastodon, for example, can follow someone on PixelFed, and their PixelFed photos will appear on the user's Mastodon timeline. The user on Mastodon can comment on the photos, and the comments will appear on Pixelfed. This compatibility can be so seamless, you might follow someone on Mastodon for their photos, and only later find out you're following a PixelFed user.
+
+As this Ars Technica article notes, [this interoperability is not 100% perfect](https://arstechnica.com/gadgets/2023/01/mastodon-highlights-pros-and-cons-of-moving-beyond-big-tech-gatekeepers/), but it works well enough to imagine the possiblities of a future where the lines between social media platforms are blurred to the point where you can use one platform to access multiple platforms.
+
+As with Mastodon, the initial step is finding a server, and then finding people to follow. Both [FediDB](https://fedidb.org/) and [Fediverse Party](https://fediverse.party/) are good places to search for servers across the different platforms. Fediverse Party also tells you a bit about each platform, and what platforms are compatible with each other.
+
+One thing to note is that many of these platforms are not quite as mature as Mastodon, and given the spotlight is on Mastodon, that also means there are less users. I suspect that as Mastodon becomes more popular, not only will more people join the other platforms, but the interoperability of these platforms with Mastodon will mean that the growth of Mastodon also leads to the growth of these platforms **as they interact with Mastodon**. If I follow someone on Mastodon for their photos, it doesn't matter to me if I don't know that I've actually followed a user on PixelFed- I liked their photos and therefore followed them. Meanwhile, the user on PixelFed has gained a follower, and the platform has grown a little.
 
 ---
 

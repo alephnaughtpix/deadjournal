@@ -14,6 +14,8 @@ Well, that's a problem, as you can't get the Shipping Forecast as a podcast. You
 
 After reading about [this Raspberry PI based project](https://www.instructables.com/id/Pi-Zero-Talking-Radio/), which used an old converted radio as a kind of simplified Alexa, I thought about doing something similar, gathering notifications from the internet, but also reading articles from RSS feeds, and maybe even podcasts. The idea of reading articles in a text-to-speech format made me wonder: can I do something similar with Shipping Forecast? Since I would be control of the sound, maybe even add in *"Sailing By"* beforehand?
 
+## The RSS feed
+
 It turns out the Shipping Forecast does have an [RSS feed](https://www.metoffice.gov.uk/public/data/CoreProductCache/ShippingForecast/Latest) on the [Met Office](https://www.metoffice.gov.uk/)'s website.  If you go to it, you see something like this:
 
 ```xml
@@ -70,6 +72,8 @@ Slight or moderate, becoming rough, then occasionally very rough later in north.
 ```
 
 That might look very different to what your hear on Radio 4, but as [explained here](https://en.wikipedia.org/wiki/Shipping_Forecast#Broadcast_format), the broadcast format of the Shipping Forecast is tightly regulated, so it's actually very easy to parse the RSS into the broadcast script.
+
+## Parsing the RSS feed
 
 As the RSS feed is an [XML](https://en.wikipedia.org/wiki/XML) file, I figured the best way to parse it would be to use [XSLT](xslt w3schools) to tranform it into human readable text. That way, I could later use different XSLT stylesheets for different RSS feeds without having to change the underlying code. Also, I could download an example RSS file, and link it to my stylesheet, and then I could load the RSS file into my browser, and test the XSLT stylesheet without having to write a line of code. 
 
@@ -164,7 +168,7 @@ And then, to complete the translation, I added a sign-off. This is not strictly 
 And that's the Shipping Forecast.
 ```
 
-### Saving to a human readable text file
+## Saving to a human readable text file
 
 Now that my XSLT stylesheet was working, I needed a way to save to a human readable text file for further processing. As I was looking to eventually get it working on a Raspberry Pi, I figured Python 3 would be a good bet. I used the python library [lxml](https://lxml.de/) and the inbuilt [requests](https://realpython.com/python-requests/) library to download the RSS from the Met Office website, translate it, and output as human-readable text. You'll notice that after downloading, I strip any excess spaces, and remove the XML header that gets added as part of the translation. The filename of the XSLT stylesheet is contained within the variable `xsl_filename`.
 
@@ -206,7 +210,7 @@ Running this script will create a file called `script.txt`, which will contain s
  And now the Shipping Forecast, issued by the Met Office on behalf of the Maritime and Coastguard Agency at 1030 today. There are gale warnings for Viking, North Utsire, Rockall, Hebrides, Bailey, Fair Isle, Faeroes and Southeast Iceland. The General Synopsis at 0600: Low Iceland 989 moving steadily northeast expected 250 miles north of Norwegian Basin 967 by 0600 tomorrow. Low France 1010 losing its identity. New high expected France 1024 by same time. The Area Forecasts for the next 24 hours: Viking, North Utsire: Southwesterly 4 or 5, increasing 6 to gale 8.. Rain at times.. Moderate or good, occasionally poor. South Utsire, Forties, Cromarty, Forth: Variable 3, becoming southwesterly 4 to 6, increasing 7 at times in Cromarty and Forth.. Mainly fair.. Good. Tyne, Dogger: Northeast backing west, 4 or 5, occasionally 6 later.. Fair.. Good. Fisher: Variable 2 to 4, becoming southwest 4 to 6 later.. Fair.. Good. German Bight, Humber, Thames: Northeast becoming cyclonic, then becoming west later, 4 to 6, occasionally 7 at first.. Occasional rain.. Good, occasionally poor. Dover, Wight: Cyclonic 5 to 7, becoming north 3 or 4, then becoming variable later.. Occasional rain.. Good, occasionally poor. Portland, Plymouth: Northeast 3 or 4, becoming variable 3 or less later.. Showers.. Good. Biscay: Cyclonic in south, otherwise northeasterly, 3 to 5.. Thundery showers.. Good, occasionally poor. South Fitzroy: Northerly 4 to 6.. Thundery showers.. Good, occasionally poor. North Fitzroy, Sole, Lundy, Fastnet: Northerly 4 to 6, becoming variable 3 or 4.. Showers.. Good. Irish Sea: North backing west or southwest, 3 to 5.. Fair.. Good. Shannon, Southeast Rockall: Variable 4, becoming southwesterly 5 to 7.. Fair.. Good. Northwest Rockall: Southwesterly 6 to gale 8.. Rain.. Good, occasionally poor. Malin: Southwest 4 or 5, increasing 6 or 7.. Fair.. Good. Hebrides, Bailey: Southwesterly, veering northeasterly later in north, 6 to gale 8, occasionally severe gale 9 at first.. Rain.. Moderate or poor. Fair Isle: Southwesterly 6 to gale 8, occasionally severe gale 9 at first, then veering northeasterly 4 to 6 later in north.. Rain.. Good occasionally poor. Faeroes, Southeast Iceland: Southwesterly, veering northerly, then veering northeasterly later, 6 to gale 8, occasionally severe gale 9 at first.. Occasional rain.. Good, occasionally poor. Trafalgar: North 4 to 6.. Thundery showers.. Good, occasionally moderate.. And that's the Shipping Forecast.
 ```
 
-### Turning the text into speech
+## Turning the text into speech
 
 Now that we have a human readable version, how about getting a voice to read it? I investiagted the options for text to speech in Python through [this article](https://pythonprogramminglanguage.com/text-to-speech/), and tried out a few things. Firstly, I tried [Pyttsx3](https://github.com/nateshmbhat/pyttsx3), but I found that a bit robotic, and as it depends on the system speech engine, it can be variable across different systems. [IBM Watson](https://text-to-speech-demo.ng.bluemix.net/) has a more natural sound, but it requires a lot of faffing about to get going, and has a limitation on the number of requests, after which you have to pay IBM. In the end I settled on Google Text to Speech through the [gTTS](https://github.com/pndurette/gTTS) library. This only has once choice of voice, but is very natural sounding.
 
@@ -230,7 +234,7 @@ engine.save(source_mp3)
 
 So now we have the Shipping Forecast saved as a spoken word MP3 file. You might notice that the voice, although very natural sounding can have a bit of an [uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley) effect. For example, I find the gale warnings sound a bit sarcastic, any mentions of gale force 8 sound a bit like Chris Morris on *The Day Today*, the use of the word "rain" sounds a bit strange, and for some reason Google appears to find *"Fair Isle"* a bit chuckleworthy! More about the voice later...
 
-### Adding the the theme tune
+## Adding the the theme tune
 But what would the Shipping Forecast be without having Ronald Binge's *Sailing By* to start it off? What I wanted was to have an MP3 that started off with *Sailing By*, and then had the Forecast begin just as the song ended. After a bit of searching around, I settled on [PyDub](https://github.com/jiaaro/pydub) to do the deed.
 
 ```python
@@ -269,7 +273,7 @@ After that, exporting the combined result to an MP3 file was easy:
 programme.export(combined_file, format="mp3")
 ```
 
-### But- that voice!
+## But- that voice!
 
 Now I had Python code that could generate the Shipping Forecast complete with theme music, was there anything I could about the voice? After experimenting around with the results in [Audacity](https://www.audacityteam.org/), I found that it sounded much better pitch-shifted down 4 semitones, which gave a more plummy and camp tone to it. Now all I had to was work out how to do the pitch-shifting in Python. The bad news was that PyDub had a number of inbuilt effects, but pitch-shifting was not one of them. I would have to look elsewhere.
 
@@ -305,5 +309,5 @@ feature_src = AudioSegment.from_file(pitch_file).normalize()
 ```
 The `normalize` bit at the end now makes more sense now, doesn't it? Once it's normalised, the speech file's volume will have been restored.
 
-### And that, finally, is that!
+## And that, finally, is that!
 After that, I did some cleaning up of the code, and added a few options. You can view the completed code on my GitHub account [here](https://github.com/alephnaughtpix/shippingforecast). The code is in the file `process.py`. Although this is  "just" the Shipping Forecast, in the process I learned a lot of about audio manipulation in Python, and the code I've written could easily be refactored to work with other RSS feeds to become a more generic text to speech reader, and then... Who knows?
