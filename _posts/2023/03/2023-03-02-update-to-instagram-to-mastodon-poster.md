@@ -74,7 +74,7 @@ You will want the following values set in the form:
 * Method: `POST`
 * Content Type: `application/x-www-form-urlencoded`
 * Additional Headers: `Authorization: Bearer [YOUR_ACCESS_TOKEN]`
-* Body: `status=New on Instagram: {{Caption}} {{Url}}`
+* Body: `status=New on Instagram: {% raw %}{{Caption}} {{Url}}{% endraw %}`
   You can customise the text in the body, but you will need to keep the `status=` part, as this is the part that tells Mastodon what to post. You can also add other fields, such as `visibility=unlisted` to make the post unlisted, or `sensitive=true` to mark the post as sensitive. You can find out more about the options for posting statuses in the Mastodon API [here](https://docs.joinmastodon.org/api/rest/statuses/).
 * Select "Create action" to complete the process.
 
